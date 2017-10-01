@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+<node pkg="hello_world" name="simple_hello_world" type="hello_world_node" output="screen"/>
+<node pkg="talker" name="simple_talker" type="talker_node" output="screen"/>
+<node pkg="listener" name="simple_listener" type="listener_node" output="screen"/>
+</launch>
