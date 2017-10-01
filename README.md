@@ -8,3 +8,13 @@ Argument, e.g. worlds/robocup14_spl_fiel d.world a world from the
 directory /usr/share/gazebo-2.2/worlds.
 Note: the world_name is with respect to /usr/share/gazebo-2.2/
 - teleop_twist _keyboard node
+
+## Exercise Session 2
+
+- ROS package structure
+- Integration and programming with Eclipse
+- ROS C++ client library (roscpp)
+- ROS subscribers and publishers
+- ROS parameter server
+- RViz visualization
+
